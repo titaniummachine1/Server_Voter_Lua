@@ -5,6 +5,7 @@
 
 Plus, it's smart enough to skip kicking your party members. So you can focus on playing with your squad! The script uses MenuLib and callbacks library for easy setup. Say goodbye to troublesome teammates with this script! 💪🔥
 
+
 ## Requirements
 
 [![Menulib](https://img.shields.io/badge/Download-Menu.lua_lnx00-blue?style=for-the-badge&logo=github)](https://github.com/lnx00/Lmaobox-LUA/blob/main/Menu.lua) and copy the `Menu.lua` file to your `%localappdata%` folder.
