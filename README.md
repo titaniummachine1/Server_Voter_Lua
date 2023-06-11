@@ -1,6 +1,10 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftitaniummachine1%2FServer_Voter_Lua&label=Visitors&countColor=%23263759&style=plastic)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+🤖🗳️ Kick out unwanted players automatically! This script creates a cool menu to enable/disable the votekick feature. Once enabled, it keeps an eye on your team and regularly initiates votekicks against non-friends and non-party members. No more annoying teammates! 😎🎮
+
+Plus, it's smart enough to skip kicking your party members. So you can focus on playing with your squad! The script uses MenuLib and callbacks library for easy setup. Say goodbye to troublesome teammates with this script! 💪🔥
+
 ## Requirements
 
 [![Menulib](https://img.shields.io/badge/Download-Menu.lua_lnx00-blue?style=for-the-badge&logo=github)](https://github.com/lnx00/Lmaobox-LUA/blob/main/Menu.lua) and copy the `Menu.lua` file to your `%localappdata%` folder.
